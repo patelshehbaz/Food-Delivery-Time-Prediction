@@ -33,6 +33,7 @@ streamlit run main.py
 - XGBoost Regressor
 - Streamlit
 - Mongodb
+- Opencagedata
 
 ### Benefits
 
